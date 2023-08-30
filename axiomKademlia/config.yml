@@ -1,0 +1,8 @@
+bootstrap:
+  nodeID: 0
+  IP: 0
+  port: 0
+headerFormat:
+  typeLen: 3
+defaults:
+  port: 1024
